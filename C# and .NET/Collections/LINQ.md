@@ -59,3 +59,47 @@ foreach (var element in query)
     Console.WriteLine(element.Element("title").Value);
 }
 ```
+
+## Most commonly used extension methods from LINQ
+
+- Aggregate
+- All
+- Any
+- AsEnumerable
+- Average
+- Cast
+- Concat
+- Contains
+- Count
+- DefaultIfEmpty
+- Distinct
+- ElementAt
+- Except
+- First
+- GroupBy
+- Intersect
+- Join
+- Last
+- Max
+- Min
+- OfType
+- OrderBy
+- Range
+- Repeat
+- Reverse
+- Select
+- SelectMany
+- SequenceEqual
+- Single
+- Skip
+- SkipWhile
+- Sum
+- Take
+- TakeWhile
+- ThenBy
+- ToDictionary
+- ToList
+- ToLookup
+- Union
+- Where
+- Zip
