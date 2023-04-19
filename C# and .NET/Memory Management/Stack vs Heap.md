@@ -41,7 +41,7 @@ void Baz()
 
 ```
 
-## Bonus: Explained like I was 5
+## Bonus: Explained as if I were 5
 
 Imagine you have a big box of toys. When you play with your toys, you take them out of the box and put them on the floor. When you're done playing with a toy, you put it back in the box.
 

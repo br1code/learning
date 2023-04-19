@@ -1,1 +1,0 @@
-Serialization: Serialization is the process of converting objects into a format that can be stored or transmitted, such as XML or JSON. The .NET framework provides several serialization libraries, including BinaryFormatter, XmlSerializer, and DataContractSerializer.

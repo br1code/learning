@@ -1,1 +1,0 @@
-Working with structured data: You should learn how to work with structured data formats such as CSV, JSON, and XML. This includes reading and writing data to and from these formats and validating the data.

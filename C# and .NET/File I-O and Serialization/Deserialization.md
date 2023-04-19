@@ -1,1 +1,0 @@
-Deserialization: Deserialization is the opposite of serialization, where an object is created from a serialized format.

@@ -29,7 +29,7 @@ In this example, obj is an object reference that contains a boxed int value. Whe
 
 It's important to note that boxing and unboxing can have performance implications, as creating and copying objects on the heap can be slower than working with value types directly on the stack. It's generally a good practice to avoid unnecessary boxing and unboxing operations in performance-critical code.
 
-## Bonus: Explained like I was 5
+## Bonus: Explained as if I were 5
 
 Imagine you have a toy box with different toys inside. Some toys are big and some toys are small, but they all fit inside the box. When you want to play with a toy, you take it out of the box and start playing with it. When you're done playing with it, you put it back in the box.
 
