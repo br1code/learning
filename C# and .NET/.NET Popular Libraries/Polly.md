@@ -1,5 +1,7 @@
 # Polly
 
+https://www.nuget.org/packages/polly
+
 ## Simple Explanation
 
 Polly is a .NET library that allows you to handle different types of exceptions and retries in a simple and efficient way. With Polly, you can define policies that specify how your application should behave when something goes wrong, such as when an exception is thrown or when a specific HTTP response is returned. You can use Polly to retry failed operations, circuit breakers, and handle timeouts, among other things.
