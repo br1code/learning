@@ -1,6 +1,6 @@
 # Exceptions and Error Handling
 
-## Simple explanation
+## Simple Explanation
 
 In C#, exceptions are a way to handle runtime errors that may occur during the execution of your program. Exceptions are used to signal an error condition that your code should handle gracefully. When an error occurs, C# generates an exception object, which contains information about the error, such as the type of error, the location of the error, and a stack trace of the method calls that led up to the error.
 

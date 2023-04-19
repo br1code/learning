@@ -1,11 +1,11 @@
 # Atomic Operations
 
-## Simple explanation
+## Simple Explanation
 
 Atomic operations are operations that are guaranteed to complete without interruption from other threads. In other words, when an atomic operation is being executed, no other thread can modify the data that it is operating on. This makes atomic operations useful for implementing synchronization primitives that can be used to ensure that multiple threads can safely access shared data.
 
 
-## Deep explanation
+## Deep Explanation
 
 In a concurrent program, multiple threads may need to access and modify the same shared data. However, if two or more threads attempt to modify the same data at the same time, a race condition can occur, leading to unexpected results. To prevent this, synchronization primitives such as locks, mutexes, and semaphores can be used to ensure that only one thread can modify the shared data at a time.
 

@@ -4,7 +4,7 @@
 
 A Thread Pool is a collection of threads that can be reused for executing multiple tasks concurrently. It helps reduce the overhead of creating and destroying threads for each task, thereby improving performance and reducing resource consumption.
 
-## Deep explanation
+## Deep Explanation
 
 In a .NET application, creating a new thread for each task can be expensive, as creating a new thread requires allocating memory and kernel resources. Additionally, each thread consumes system resources such as processor time and memory. This can cause problems when a large number of threads are created, as it can lead to performance issues and even crashes.
 

@@ -1,6 +1,6 @@
 # Immutable Collections
 
-## Simple explanation
+## Simple Explanation
 
 Immutable Collections in C# and .NET are data structures that cannot be modified once they are created. Instead of modifying an existing collection, operations on immutable collections return a new collection with the desired changes. This makes immutable collections thread-safe and can improve performance in some scenarios.
 

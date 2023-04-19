@@ -1,10 +1,10 @@
 # Threads
 
-## Simple explanation
+## Simple Explanation
 
 A thread is a lightweight execution unit that is used to execute code concurrently. It allows multiple parts of a program to run at the same time. Threads are useful for performing time-consuming tasks without blocking the main thread of execution. In C# and .NET, you can create and manage threads using the System.Threading namespace.
 
-## Deep explanation
+## Deep Explanation
 
 A thread is a basic unit of CPU utilization that is scheduled by the operating system. Each thread represents an independent flow of execution that can run concurrently with other threads. In a multi-threaded application, multiple threads can run concurrently and perform different tasks at the same time. Threads are commonly used to perform time-consuming operations in the background, such as I/O operations, network communications, or computational tasks.
 

@@ -1,10 +1,10 @@
 # Mutexes
 
-## Simple explanation
+## Simple Explanation
 
 A Mutex (short for mutual exclusion) is a synchronization primitive that allows multiple threads to access a shared resource while preventing simultaneous access to it. It is similar to a lock but can be used across multiple processes. Mutexes are commonly used in multi-threaded and multi-process applications to avoid race conditions and ensure that only one thread or process can access a shared resource at any given time.
 
-## Deep explanation
+## Deep Explanation
 
 A Mutex is a synchronization object that allows multiple threads to access a shared resource while preventing simultaneous access to it. It is a kernel object, meaning that it is created and managed by the operating system. A Mutex can be owned by a single thread or process at any given time. When a thread or process requests ownership of a Mutex, the operating system checks whether it is available. If it is available, the requesting thread or process takes ownership of the Mutex and can access the shared resource. If it is not available, the requesting thread or process is blocked until it becomes available.
 

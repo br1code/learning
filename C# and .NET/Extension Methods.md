@@ -4,7 +4,7 @@
 
 Extension methods in C# allow you to add new methods to existing types without having to derive a new type or modify the original type. This means that you can extend classes, structs, and interfaces that you did not create and add new methods to them as if they were part of the original definition.
 
-## Deep explanation
+## Deep Explanation
 
 Extension methods in C# allow developers to add methods to a class or interface that they did not create or modify the original source code. This is done by defining a new static method and tagging it with the "this" keyword before the first parameter, which specifies the class or interface that you want to extend. When you do this, the extension method becomes available as an instance method of the specified class or interface.
 

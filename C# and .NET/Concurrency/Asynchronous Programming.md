@@ -4,11 +4,11 @@ TODO:
 - Watch https://youtu.be/3GhKdDCvtKE
 - Watch https://youtu.be/il9gl8MH17s
 
-## Simple explanation
+## Simple Explanation
 
 Asynchronous programming allows you to execute long-running operations without blocking the main thread, which can improve the responsiveness of your application. Instead of waiting for an operation to complete, your code can continue executing and handle the result later when it's available.
 
-## Deep explanation
+## Deep Explanation
 
 Asynchronous programming in C# and .NET involves using asynchronous methods, which are methods that return a task that represents the asynchronous operation. When you call an asynchronous method, it starts executing the operation on a separate thread, and then returns the task immediately without blocking the calling thread. The task allows you to monitor the progress of the operation and retrieve the result when it's available.
 

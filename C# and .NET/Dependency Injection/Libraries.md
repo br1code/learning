@@ -2,6 +2,8 @@
 
 ## Microsoft.Extensions.DependencyInjection
 
+https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/
+
 ### Explanation
 
 Microsoft.Extensions.DependencyInjection is a library that provides a lightweight and flexible dependency injection framework for .NET applications. It allows you to easily register and resolve dependencies, manage object lifetimes, and control how dependencies are created and consumed in your code.
@@ -63,6 +65,8 @@ myService.DoSomething();
 ```
 
 ## Scrutor
+
+https://www.nuget.org/packages/Scrutor
 
 ### Explanation
 

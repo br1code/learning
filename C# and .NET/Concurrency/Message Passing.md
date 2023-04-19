@@ -2,7 +2,7 @@
 
 TODO: Watch https://youtu.be/E0Ld7ZgE4oY
 
-## Simple explanation
+## Simple Explanation
 
 Message Passing is a technique of inter-process communication where **different processes or threads can communicate with each other by sending messages through a channel**. In C# and .NET, Message Passing can be implemented using various constructs such as events, delegates, and the Task Parallel Library.
 

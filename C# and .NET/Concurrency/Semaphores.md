@@ -4,7 +4,7 @@
 
 A semaphore is a synchronization object that allows a certain number of threads to access a resource simultaneously. It maintains a count of available resources and allows access to these resources by decreasing the count each time a thread acquires a resource, and increasing the count each time a thread releases a resource. This helps in avoiding resource contention and ensures that the resource is not accessed by more threads than it can handle.
 
-## Deep explanation
+## Deep Explanation
 
 In computer programming, a semaphore is a synchronization construct that allows multiple threads to access a shared resource concurrently without causing race conditions or other synchronization problems. A semaphore is essentially a counter that is used to control access to a shared resource.
 

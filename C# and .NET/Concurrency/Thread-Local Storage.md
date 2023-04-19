@@ -1,10 +1,10 @@
 # Thread-Local Storage
 
-## Simple explanation
+## Simple Explanation
 
 Thread-local storage (TLS) is a mechanism in multi-threaded programming that allows each thread to have its own private storage for data. In C# and .NET, the ThreadLocal<T> class provides an easy way to create and manage thread-local storage.
 
-## Deep explanation
+## Deep Explanation
 
 In multi-threaded programming, it's often useful to have a way for each thread to have its own private storage for data. This can help avoid race conditions and other synchronization issues that can arise when multiple threads access the same shared data.
 

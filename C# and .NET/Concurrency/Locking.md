@@ -1,10 +1,10 @@
 # Locking
 
-## Simple explanation
+## Simple Explanation
 
 Locking is a mechanism in C# and .NET that helps to synchronize access to shared resources, such as variables or objects, in a multithreaded environment. It ensures that only one thread at a time can access the shared resource, preventing conflicts and data corruption.
 
-## Deep explanation
+## Deep Explanation
 
 In a multithreaded environment, where multiple threads are accessing the same shared resource, it is important to synchronize access to that resource to prevent conflicts and ensure data integrity. One way to achieve this is through locking. When a thread acquires a lock on a resource, no other thread can access that resource until the lock is released. This ensures that only one thread at a time can modify the resource, preventing data corruption and inconsistencies.
 

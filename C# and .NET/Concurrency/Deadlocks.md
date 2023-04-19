@@ -1,10 +1,10 @@
 # Deadlocks
 
-## Simple explanation
+## Simple Explanation
 
 Deadlocks occur when two or more threads are blocked and waiting for each other to release resources that they need to proceed, resulting in a deadlock or a standstill. A deadlock can occur in any multi-threaded environment, including C# and .NET.
 
-## Deep explanation
+## Deep Explanation
 
 A deadlock happens when two or more threads are blocked and waiting for each other to release resources that they need to proceed. This happens when a thread holds a resource and waits for another thread to release a resource that it needs, while that thread holds a resource and waits for the first thread to release the resource it holds. In this scenario, neither thread can proceed, and the threads become deadlocked.
 

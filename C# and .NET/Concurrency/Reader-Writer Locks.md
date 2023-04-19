@@ -1,10 +1,10 @@
 # Reader-Writer Locks
 
-## Simple explanation
+## Simple Explanation
 
 A reader-writer lock is a synchronization primitive that allows multiple threads to read a shared resource simultaneously, but only one thread to write to the resource at a time. Reader-writer locks can be useful when multiple threads need to read data, but only one thread should be able to modify the data at any given time.
 
-## Deep explanation
+## Deep Explanation
 
 In a concurrent program, multiple threads may need to access and modify the same shared data. In some cases, many threads may only need to read the data, while only one thread needs to modify it. In such scenarios, using a simple lock to synchronize access to the shared data can lead to poor performance, as multiple readers can be blocked by a single writer.
 

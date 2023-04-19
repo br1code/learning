@@ -1,10 +1,10 @@
 # Memory Models
 
-## Simple explanation
+## Simple Explanation
 
 A memory model defines the rules and guarantees for how multiple threads access and modify shared memory. In other words, it specifies what the result of concurrent accesses to shared memory will be.
 
-## Deep explanation
+## Deep Explanation
 
 In a concurrent program, multiple threads may access and modify shared memory simultaneously. Without proper synchronization, these operations can lead to race conditions, where the final state of the memory depends on the order and timing of the operations, and can be unpredictable and inconsistent.
 

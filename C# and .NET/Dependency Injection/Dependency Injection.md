@@ -1,10 +1,10 @@
 # Dependency Injection
 
-## Simple explanation
+## Simple Explanation
 
 Dependency Injection (DI) is a design pattern that helps to improve the modularity, flexibility, and testability of software applications. It involves decoupling objects by allowing them to request dependencies (other objects or values they need to work) from an external source instead of creating them directly. This way, the objects can be easily replaced, extended or tested without changing the code that uses them.
 
-## Deep explanation
+## Deep Explanation
 
 Dependency Injection is based on the principle of Inversion of Control (IoC), which means that instead of a component controlling its dependencies, the dependencies are injected into the component by an external entity (often called a container). This way, the component doesn't need to know how to create or find its dependencies, and can focus on doing its job.
 

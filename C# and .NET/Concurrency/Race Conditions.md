@@ -1,10 +1,10 @@
 # Race conditions
 
-## Simple explanation
+## Simple Explanation
 
 A race condition is a problem that can occur when two or more threads access a shared resource or variable simultaneously. The result of the operation can depend on the order in which the threads execute, leading to unpredictable or incorrect behavior.
 
-## Deep explanation
+## Deep Explanation
 
 In a multi-threaded environment, race conditions can occur when multiple threads access a shared resource or variable, such as a shared memory location or a file. Race conditions can occur when two or more threads try to access the same resource at the same time, and the result of the operation depends on the order in which the threads execute.
 
