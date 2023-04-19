@@ -1,0 +1,1 @@
+ Learn about cryptographic concepts such as hashing, encryption, and decryption, as well as how to use the .NET cryptographic libraries such as System.Security.Cryptography to implement secure cryptographic functions.

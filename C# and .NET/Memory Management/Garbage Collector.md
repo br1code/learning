@@ -1,0 +1,1 @@
+how the .NET runtime manages memory by periodically identifying and reclaiming unused objects in the memory space.

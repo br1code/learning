@@ -1,0 +1,1 @@
+File I/O: This refers to reading and writing data to and from files on disk. The File and FileInfo classes provide methods for working with files, such as creating, opening, deleting, and moving files.

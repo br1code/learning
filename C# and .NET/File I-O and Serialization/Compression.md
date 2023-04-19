@@ -1,0 +1,1 @@
+Compression: Compression is the process of reducing the size of a file or data stream. The .NET framework provides classes for compressing and decompressing data, including GZipStream and DeflateStream.

@@ -1,0 +1,1 @@
+Learn about how to securely communicate between applications, including SSL/TLS and HTTPS, as well as secure communication protocols such as SFTP, SSH, and SCP.

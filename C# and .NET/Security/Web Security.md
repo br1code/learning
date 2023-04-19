@@ -1,0 +1,1 @@
+Learn about web security concepts such as CORS, CSRF, XSS, and Content Security Policy (CSP), as well as techniques for securing web applications, including SQL injections, input validation and output encoding.

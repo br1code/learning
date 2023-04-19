@@ -1,0 +1,1 @@
+Streams: Streams are objects that provide a way to read from or write to a sequence of bytes. The .NET framework provides several types of streams, including FileStream, MemoryStream, and NetworkStream.

@@ -1,0 +1,1 @@
+Learn about authentication and authorization mechanisms in .NET, including forms-based authentication, Windows authentication, OAuth, and OpenID Connect. You should also learn about the authorization attributes in ASP.NET, such as [Authorize] and [AllowAnonymous].

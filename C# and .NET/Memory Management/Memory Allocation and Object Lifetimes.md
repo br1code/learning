@@ -1,0 +1,1 @@
+understanding how the stack and heap work, how to allocate and free memory, and how object lifetimes affect memory usage.
