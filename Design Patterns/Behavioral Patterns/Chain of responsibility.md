@@ -1,5 +1,7 @@
 # Chain of responsability
 
+![](../Assets/chain-of-responsibility.png)
+
 ## Simple Explanation
 
 The Chain of Responsibility design pattern is a behavioral design pattern that allows you to decouple the sender of a request from its receiver by allowing multiple objects (handlers) to handle the request. The request is passed along the chain of handlers until one of them handles it or the chain ends.

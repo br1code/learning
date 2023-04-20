@@ -1,5 +1,7 @@
 # Iterator
 
+![](../Assets/iterator.png)
+
 ## Simple Explanation
 
 The Iterator design pattern is a behavioral design pattern that provides a standardized way to traverse a collection of objects without exposing the underlying implementation. It allows you to decouple the traversal logic from the collection itself, making your code more modular and easier to maintain.

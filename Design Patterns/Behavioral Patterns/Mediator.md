@@ -1,5 +1,7 @@
 # Mediator
 
+![](../Assets/mediator.png)
+
 ## Simple Explanation
 
 The Mediator design pattern is a behavioral design pattern that defines an object to encapsulate how a set of objects interact. It promotes loose coupling by preventing objects from referring to each other explicitly, allowing you to vary their interactions independently.

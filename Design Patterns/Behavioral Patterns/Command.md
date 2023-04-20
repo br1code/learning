@@ -1,5 +1,7 @@
 # Command
 
+![](../Assets/command.png)
+
 ## Simple Explanation
 
 The Command design pattern is a behavioral design pattern that encapsulates a request or operation as an object, allowing you to decouple the object that invokes the operation from the object that performs it. This provides greater flexibility in managing operations, such as supporting undo/redo functionality, implementing callbacks, or queuing and executing requests at different times.

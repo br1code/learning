@@ -1,5 +1,7 @@
 # Memento
 
+![](../Assets/memento.png)
+
 ## Simple Explanation
 
 The Memento design pattern is a behavioral design pattern that captures and externalizes an object's internal state without violating encapsulation, allowing the object to be restored to this state later. It's particularly useful when you need to implement undo/redo functionality or save the state of an object for later use.

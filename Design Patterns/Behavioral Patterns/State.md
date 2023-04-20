@@ -1,5 +1,7 @@
 # State
 
+![](../Assets/state.png)
+
 ## Simple Explanation
 
 The State design pattern is a behavioral design pattern that allows an object to alter its behavior when its internal state changes. It promotes loose coupling and encapsulates state-specific logic into separate classes, making it easier to extend and maintain the code.
