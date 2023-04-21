@@ -1,6 +1,6 @@
 # TLS
 
-TLS is a cryptographic protocol that was designed to provide secure communication over the internet. It is the successor to SSL (Secure Sockets Layer) and is now the standard protocol used for secure communication. TLS works by providing encryption and authentication of data that is transmitted over the internet.
+TLS (Transport Layer Security) is a cryptographic protocol that was designed to provide secure communication over the internet. It is the successor to SSL (Secure Sockets Layer) and is now the standard protocol used for secure communication. TLS works by providing encryption and authentication of data that is transmitted over the internet.
 
 When a TLS connection is established between two endpoints, a series of handshakes take place to set up the parameters of the connection, including the encryption algorithms and keys that will be used to encrypt the data. Once the connection is established, all data transmitted between the endpoints is encrypted using the agreed-upon encryption algorithm.
 
