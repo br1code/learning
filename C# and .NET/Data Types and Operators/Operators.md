@@ -1,4 +1,4 @@
-# Operators:
+# Operators
 
 - Arithmetic operators: These include +, -, *, /, %, ++, and -- for addition, subtraction, multiplication, division, modulus, increment, and decrement operations respectively.
 

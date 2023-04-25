@@ -15,3 +15,5 @@ Parallel programming is best suited for **CPU-bound tasks that can be divided in
 Asynchronous programming is best suited for **I/O-bound tasks that can be performed concurrently**.
 
 Multithreading is best suited for **scenarios where multiple independent tasks need to be performed concurrently**.
+
+The **most modern way** of executing some logic on a different thread in C# and .NET is by using the async/await pattern with the Task class. This allows you to write asynchronous code that runs on a separate thread without having to deal with the low-level details of thread management.

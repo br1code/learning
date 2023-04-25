@@ -1,4 +1,4 @@
-# Data Types:
+# Data Types
 
 - Value types: These are types that store the actual value within a variable's memory allocation. Examples include int, float, double, bool, and char. Value types are typically allocated on the stack.
 

@@ -1,4 +1,4 @@
-# Threads
+# MultiThreading Programming
 
 ## Simple Explanation
 
@@ -36,8 +36,6 @@ In addition to creating threads, you can also control their execution using vari
 
 However, multi-threaded programming can be challenging because multiple threads can access shared resources concurrently, leading to synchronization issues and race conditions. To avoid these issues, you can use various synchronization mechanisms provided by the System.Threading namespace, such as locks, semaphores, and mutexes, to control access to shared resources.
 
-The **most modern way** of executing some logic on a different thread in C# and .NET is by using the async/await pattern with the Task class. This allows you to write asynchronous code that runs on a separate thread without having to deal with the low-level details of thread management.
-
 ## Examples
 
 Here is an example that demonstrates how to use threads to perform a time-consuming operation in the background:
@@ -65,22 +63,6 @@ public class Program
         Thread.Sleep(5000);
         Console.WriteLine("Worker thread has finished.");
     }
-}
-```
-
-Here is a modern way of executing some logic on a different thread by using the async/await pattern with the Task class.
-
-```C#
-public async Task<string> DoWorkAsync()
-{
-    string result = await Task.Run(() => 
-    {
-        // Do some work on a separate thread
-        return "result";
-    });
-
-    // Do some more work on the calling thread
-    return result;
 }
 ```
 
