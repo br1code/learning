@@ -81,3 +81,5 @@ This configuration adds a route for areas, ensuring that the URLs are in the for
 With these steps, you have created a new area in your ASP.NET Core application. You can now access the area's "Home" controller and "Index" action by navigating to the URL `/AreaName/Home/Index`.
 
 Areas help you to better organize large projects, separating different functional areas into their own folders and namespaces. This makes it easier to manage and maintain the application, as each area can be developed, tested, and deployed independently.
+
+**Note:** While areas are typically associated with web applications that have views, you can also use areas in Web API applications to organize your controllers and provide a logical separation between different parts of your API.
