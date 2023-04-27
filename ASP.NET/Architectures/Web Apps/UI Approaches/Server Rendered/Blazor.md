@@ -1,6 +1,6 @@
 # Blazor
 
-**TODO: review and update with modern versions**
+Source: https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0
 
 ASP.NET Core Blazor is a framework for building interactive web applications using C# and Razor syntax. With Blazor, you can write both client-side and server-side logic in C#, reducing the need for JavaScript. Blazor uses WebAssembly to run C# code directly in the browser or can be run on the server and utilize SignalR to communicate with the client.
 

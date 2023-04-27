@@ -152,6 +152,7 @@
           - [Blazor](/ASP.NET/Architectures/Web%20Apps/UI%20Approaches/Server%20Rendered/Blazor.md)
         - [Client Rendered](/ASP.NET/Architectures/Web%20Apps/UI%20Approaches/Client%20Rendered/)
           - [SPA](/ASP.NET/Architectures/Web%20Apps/UI%20Approaches/Client%20Rendered/SPA/)
+            - [Overview](/ASP.NET/Architectures/Web%20Apps/UI%20Approaches/Client%20Rendered/SPA/Overview.md)
             - [Angular](/ASP.NET/Architectures/Web%20Apps/UI%20Approaches/Client%20Rendered/SPA/Angular.md)
             - [React](/ASP.NET/Architectures/Web%20Apps/UI%20Approaches/Client%20Rendered/SPA/React.md)
           - [Blazor WebAssembly](/ASP.NET/Architectures/Web%20Apps/UI%20Approaches/Client%20Rendered/Blazor%20WebAssembly.md)
