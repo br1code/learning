@@ -194,5 +194,7 @@
   - [Fundamentals & Database Design](/RDBMS%20Databases/Fundamentals%20%26%20Database%20Design.md)
   - [Database Normalization](/RDBMS%20Databases/Database%20Normalization.md)
   - [SQL Syntax](/RDBMS%20Databases/SQL%20Syntax.md)
+  - [Functions & Operators](/RDBMS%20Databases/Functions%20%26%20Operators.md)
+  - [Stored Procedures & Views](/RDBMS%20Databases/Stored%20Procedures%20%26%20Views.md)
   - [Keys](/RDBMS%20Databases/Keys.md)
   - [Indexes](/RDBMS%20Databases/Indexes.md)
