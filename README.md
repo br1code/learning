@@ -195,3 +195,4 @@
   - [Database Normalization](/RDBMS%20Databases/Database%20Normalization.md)
   - [SQL Syntax](/RDBMS%20Databases/SQL%20Syntax.md)
   - [Keys](/RDBMS%20Databases/Keys.md)
+  - [Indexes](/RDBMS%20Databases/Indexes.md)
