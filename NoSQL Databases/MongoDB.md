@@ -277,3 +277,35 @@ MongoDB offers a wide range of drivers and APIs to interact with the database, c
 - Object-Document Mappers (ODMs): ODMs provide a higher-level abstraction for working with MongoDB by mapping document data to objects in your programming language. Examples of ODMs include Mongoose for JavaScript (Node.js), Morphia for Java, and MongoEngine for Python. ODMs can simplify application code, enforce schema validation, and provide additional features like middleware and hooks.
 
 When choosing a driver, API, or library for MongoDB, consider factors like the programming language, ease of use, and community support. Make sure to keep your drivers up-to-date to take advantage of new features, bug fixes, and performance improvements.
+
+## Bonus: MongoDB vs Cassandra
+
+Cassandra and MongoDB are both NoSQL databases that are designed to handle large volumes of unstructured or semi-structured data, but they differ in several key ways. Here's a comparison of the two:
+
+### Data model
+
+- MongoDB uses a document-based data model, where each document is a JSON-like object that can contain nested fields and arrays.
+- Cassandra uses a wide column-based data model, where data is organized into tables with rows and columns, and each column can contain multiple values.
+
+### Scalability
+
+- Both MongoDB and Cassandra are designed to be highly scalable and can handle large volumes of data.
+- MongoDB uses a sharding approach to scale horizontally across multiple nodes or servers, with each node responsible for a subset of the data.
+- Cassandra uses a partitioning approach to distribute data across multiple nodes or servers, with each node responsible for a specific range of data.
+
+### Consistency
+
+- MongoDB offers strong consistency by default, meaning that all reads and writes are guaranteed to be consistent across all nodes in the cluster.
+- Cassandra offers eventual consistency by default, meaning that there may be a delay between updates on different nodes, but consistency is eventually guaranteed.
+
+### Querying
+
+- MongoDB has a flexible query language that supports a wide range of queries and aggregation operations.
+- Cassandra has a limited query language and does not support complex queries or aggregations. Instead, it relies on denormalization and indexing to optimize queries.
+
+### Use cases
+
+- MongoDB is often used for web applications, content management systems, and real-time analytics, where a flexible data model and high query performance are important.
+- Cassandra is often used for high-velocity data ingestion, time-series data, and Internet of Things (IoT) applications, where high write throughput and linear scalability are important.
+
+Overall, both MongoDB and Cassandra are powerful NoSQL databases with different strengths and use cases. MongoDB's flexible data model and query language make it a good fit for a wide range of applications, while Cassandra's focus on high write throughput and linear scalability make it a good fit for applications with high data volumes and velocity.

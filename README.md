@@ -219,6 +219,7 @@
   - [Cloud Propietary](/NoSQL%20Databases/Cloud%20Propietary/)
     - [AWS DynamoDB](/NoSQL%20Databases/Cloud%20Propietary/AWS%20DynamoDB.md)
     - [Azure CosmosDB](/NoSQL%20Databases/Cloud%20Propietary/Azure%20CosmosDB.md)
+    - [Comparison](/NoSQL%20Databases/Cloud%20Propietary/Comparison.md)
 - [Testing](/Testing/)
   - [Unit Testing](/Testing/Unit%20Testing/)
     - [Fundamentals](/Testing/Unit%20Testing/Fundamentals.md)

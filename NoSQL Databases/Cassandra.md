@@ -216,3 +216,35 @@ namespace CassandraExample
 ```
 
 This example demonstrates how to use the DataStax C# driver for Cassandra to create a keyspace, a table, insert a record, and query the data using async-await style in C#. Remember to replace the contact point with your own Cassandra node's IP address or hostname.
+
+## Bonus: Cassandra vs MongoDB
+
+Cassandra and MongoDB are both NoSQL databases that are designed to handle large volumes of unstructured or semi-structured data, but they differ in several key ways. Here's a comparison of the two:
+
+### Data model
+
+- MongoDB uses a document-based data model, where each document is a JSON-like object that can contain nested fields and arrays.
+- Cassandra uses a wide column-based data model, where data is organized into tables with rows and columns, and each column can contain multiple values.
+
+### Scalability
+
+- Both MongoDB and Cassandra are designed to be highly scalable and can handle large volumes of data.
+- MongoDB uses a sharding approach to scale horizontally across multiple nodes or servers, with each node responsible for a subset of the data.
+- Cassandra uses a partitioning approach to distribute data across multiple nodes or servers, with each node responsible for a specific range of data.
+
+### Consistency
+
+- MongoDB offers strong consistency by default, meaning that all reads and writes are guaranteed to be consistent across all nodes in the cluster.
+- Cassandra offers eventual consistency by default, meaning that there may be a delay between updates on different nodes, but consistency is eventually guaranteed.
+
+### Querying
+
+- MongoDB has a flexible query language that supports a wide range of queries and aggregation operations.
+- Cassandra has a limited query language and does not support complex queries or aggregations. Instead, it relies on denormalization and indexing to optimize queries.
+
+### Use cases
+
+- MongoDB is often used for web applications, content management systems, and real-time analytics, where a flexible data model and high query performance are important.
+- Cassandra is often used for high-velocity data ingestion, time-series data, and Internet of Things (IoT) applications, where high write throughput and linear scalability are important.
+
+Overall, both MongoDB and Cassandra are powerful NoSQL databases with different strengths and use cases. MongoDB's flexible data model and query language make it a good fit for a wide range of applications, while Cassandra's focus on high write throughput and linear scalability make it a good fit for applications with high data volumes and velocity.
