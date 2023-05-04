@@ -1,6 +1,6 @@
 # Learning
 
-- [C# and .NET](/C%23%20and%20.NET/) :white_check_mark:
+- [C# and .NET](/C%23%20and%20.NET/)
   - [CLR](/C%23%20and%20.NET/CLR.md)
   - [Data Types and Operators](/C%23%20and%20.NET/Data%20Types%20and%20Operators/)
     - [Data Types](/C%23%20and%20.NET/Data%20Types%20and%20Operators/Data%20Types.md)
