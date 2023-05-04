@@ -1,6 +1,6 @@
 # Learning
 
-- [C# and .NET](/C%23%20and%20.NET/)
+- [C# and .NET](/C%23%20and%20.NET/) :white_check_mark:
   - [CLR](/C%23%20and%20.NET/CLR.md)
   - [Data Types and Operators](/C%23%20and%20.NET/Data%20Types%20and%20Operators/)
     - [Data Types](/C%23%20and%20.NET/Data%20Types%20and%20Operators/Data%20Types.md)
@@ -236,12 +236,16 @@
       - [AutoFixture](/Testing/Unit%20Testing/Test%20Data%20Generators/AutoFixture.md)
       - [Bogus](/Testing/Unit%20Testing/Test%20Data%20Generators/Bogus.md)
   - [Integration Testing](/Testing/Integration%20Testing/)
+    - [Fundamentals](/Testing/Integration%20Testing/Fundamentals.md)
     - [WebApplicationFactory](/Testing/Integration%20Testing/WebApplicationFactory.md)
   - [Snapshot Testing](/Testing/Snapshot%20Testing/)
+    - [Fundamentals](/Testing/Snapshot%20Testing/Fundamentals.md)
     - [Verify](/Testing/Snapshot%20Testing/Verify.md)
   - [E2E Testing](/Testing/E2E%20Testing/)
+    - [Fundamnetals](/Testing/E2E%20Testing/Fundamentals.md)
     - [Playwright](/Testing/E2E%20Testing/Playwright.md)
   - [Performance Testing](/Testing/Performance%20Testing/)
+    - [Fundamentals](/Testing/Performance%20Testing/Fundamentals.md)
     - [K6](/Testing/Performance%20Testing/K6.md)
 - [Messaging](/Messaging/)
   - [Fundamentals](/Messaging/Fundamentals.md)
