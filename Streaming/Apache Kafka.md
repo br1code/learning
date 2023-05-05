@@ -185,6 +185,11 @@ Monitoring your Kafka cluster is essential for ensuring its health and performan
 
 ## Examples
 
+**NOTE: THIS EXAMPLE DOES NOT WORK.**
+
+
+**TODO: FIX IT.**
+
 In this example, we'll demonstrate stream processing using Apache Kafka and Kafka Streams in a .NET application with the Confluent.Kafka and Kafka.Streams libraries. We'll read messages from an input topic, perform a simple word count, and write the results to an output topic.
 
 1. Install the required NuGet packages:
