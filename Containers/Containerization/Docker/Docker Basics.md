@@ -1,4 +1,4 @@
-# Basics of Docker
+# Docker Basics
 
 ## Docker architecture
 
