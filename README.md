@@ -314,6 +314,8 @@
       - [Azure Traffic Manager](/Cloud/Azure/Networking/Azure%20Traffic%20Manager.md)
       - [Azure ExpressRoute](/Cloud/Azure/Networking/Azure%20ExpressRoute.md)
       - [Azure Network Security Group](/Cloud/Azure/Networking/Azure%20ExpressRoute.md)
+      - [Azure Front Door](/Cloud/Azure/Networking/Azure%20Front%20Door.md)
+      - [Load Balancing and Traffic Management Services Comparison](/Cloud/Azure/Networking/Load%20Balancing%20and%20Traffic%20Management%20Services%20Comparison.md)
     - [Security and Identity](/Cloud/Azure/Security%20and%20Identity/)
       - [Azure Active Directory](/Cloud/Azure/Security%20and%20Identity/Azure%20Active%20Directory.md)
       - [Azure Security Center](/Cloud/Azure/Security%20and%20Identity/Azure%20Security%20Center.md)
