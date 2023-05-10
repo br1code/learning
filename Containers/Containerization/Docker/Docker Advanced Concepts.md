@@ -62,7 +62,7 @@ To create a Docker plugin:
 
 5. Exec commands inside a container: Use `docker exec` to run commands inside a running container. This can help you diagnose issues or perform maintenance tasks.
 
-   Example: `docker exec -it my-container /bin/bash`
+   Example: `docker exec -it my-container /bin/bash` or `docker exec -it my-container sh`
 
 6. Use `docker top`: The `docker top` command allows you to view the processes running inside a container. This can help you identify any unexpected or resource-consuming processes.
 

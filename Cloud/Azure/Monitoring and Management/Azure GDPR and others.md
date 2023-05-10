@@ -1,0 +1,1 @@
+# Azure GDPR and other compliance offerings
