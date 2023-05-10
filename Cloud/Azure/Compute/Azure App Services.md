@@ -14,13 +14,9 @@ Azure App Service supports several app types, including:
 - API Apps: Host and manage RESTful APIs with built-in support for API definition (Swagger/OpenAPI) and client code generation.
 - Mobile Apps: Backend services for mobile applications, including data storage, authentication, and push notifications.
 - Logic Apps: Design and run serverless workflows that integrate with various services and APIs.
-
-![](../Assets/app-services-1.png)
-
 - Function Apps: Host and manage serverless functions that respond to events or triggers.
 
-![](../Assets/app-services-6.png)
-![](../Assets/app-services-7.png)
+![](../Assets/app-services-1.png)
 
 ## Deployment Slots
 

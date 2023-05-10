@@ -12,7 +12,6 @@ Steps:
 
 ![](../Assets/virtual-machines-2.png)
 
-
 Basics:
 
 ![](../Assets/virtual-machines-3.png)
